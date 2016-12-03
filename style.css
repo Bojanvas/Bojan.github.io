@@ -379,7 +379,7 @@ footer:hover {
         width: 40%;
     }
     #mainimg {
-        background: url('img/main3.png') center;
+        background: url('img/main3.png') center fixed;
         height: 600px;
     }
     #wrapper {
