@@ -362,6 +362,9 @@ footer:hover {
     #rocket {
         left: 68%;
     }
+    #whell {
+        top: 60%;
+    }
     textarea {
         width: 100%;
     }
@@ -375,4 +378,14 @@ footer:hover {
     .socicon div {
         width: 40%;
     }
+    #mainimg {
+        background: url('img/main3.png');
+        height: 600px;
+    }
+    #wrapper {
+        height: 600px;
+    }
+    #imgtext {
+        font-size: 200%;
+    }  
 }
